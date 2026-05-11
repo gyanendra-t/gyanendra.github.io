@@ -50,7 +50,7 @@ Experienced technology leader specializing in:
 
 Interested in discussing technology strategy, innovation, or collaboration opportunities? Feel free to reach out!
 
-- Email: [your.email@example.com]
+- Email: [gyanendra.tripathi@hotmail.com]
 - GitHub: [@gyanendra-t](https://github.com/gyanendra-t)
 
 ## 📄 License
